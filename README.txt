@@ -33,6 +33,15 @@
 # model/ (download the already converted to Keras and trained model here: https://www.dropbox.com/s/llpxd14is7gyj0z/model.h5)
 
 
+## Training Footage
+
+# https://www.youtube.com/watch?v=XQVfOK8GzSc
+# https://www.youtube.com/watch?v=Epb0LtaTGTU
+# https://www.youtube.com/watch?v=vNWb02wG51I
+# https://www.youtube.com/watch?v=6aflsPk7yjQ
+# https://www.youtube.com/watch?v=oTYNr2hZ1AE
+
+
 ## Report Paper Sources:
 
 # action_int_the_wild - https://ieeexplore.ieee.org/document/5206744
