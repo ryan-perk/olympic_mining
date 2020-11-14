@@ -7,7 +7,7 @@
 
 ## analyze.ipynb
 
-# mostly hacked together to output various graphs, images, and ways to visualize the model
+# output various graphs, images, and ways to visualize the model
 
 
 ## tensor.ipynb
